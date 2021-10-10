@@ -1,0 +1,97 @@
+DevOps
+
+
+Dev   eloper +op   erational ==== Dev + ops ==devops
+
+
+
+
+Developer :
+
+IDE-eclipse ,visual studio , sublime ,intellj,newon,notepadd+++
+
+java ,c++,c,python ,node, node js, angular , groovy , go , 
+
+
+java code ----javac + compilation -----.class (output)
+
+
+
+1java file ----1.class file 
+
+100 java files -----100.class file 
+
+100 .class files ---------    java archive -  packages  ===========jar 
+
+
+100 jar -------  package ====War --web archive 
+
+100 war ======= EAR  (Jar , war ,ear  , java , javac )
+
+java 1.8
+=============================
+100 files 
+
+1000 files 
+
+
+1 M --- 
+
+Prem ---1M ---companys ---6 years 
+
+10 ----4 people ---6people =========40 M files 
+
+software ----repository ---tool-- 10 people 
+=======================
+
+
+repository ---git tool, github , 
+
+Linux --linus toravalds ----Microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
